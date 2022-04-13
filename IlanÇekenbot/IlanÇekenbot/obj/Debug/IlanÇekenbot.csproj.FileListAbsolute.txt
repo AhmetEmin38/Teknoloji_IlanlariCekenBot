@@ -1,0 +1,15 @@
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\bin\Debug\IlanÇekenbot.exe.config
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\bin\Debug\IlanÇekenbot.exe
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\bin\Debug\IlanÇekenbot.pdb
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\obj\Debug\IlanÇekenbot.csproj.AssemblyReference.cache
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\obj\Debug\IlanÇekenbot.Form1.resources
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\obj\Debug\IlanÇekenbot.Properties.Resources.resources
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\obj\Debug\IlanÇekenbot.csproj.GenerateResource.cache
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\obj\Debug\IlanÇekenbot.csproj.CoreCompileInputs.cache
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\obj\Debug\IlanÇekenbot.exe
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\obj\Debug\IlanÇekenbot.pdb
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\bin\Debug\WebDriver.dll
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\necoa\source\repos\IlanÇekenbot\IlanÇekenbot\bin\Debug\HtmlAgilityPack.xml
